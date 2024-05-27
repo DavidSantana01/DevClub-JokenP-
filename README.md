@@ -1,8 +1,8 @@
-<h1>Burger</h1>
+<h1>JokenPô</h1>
 <br>
-<p>Projeto site de uma hambúrgueria!</p>
+<p>Projeto JokenPô contra Ia</p>
 <div>
-    <img src="./img/burgerWebsite.png" alt="Foto-burger-website">
+    <img src="./img/WebSiteJokenPô.png" alt="Foto-JokenPô-website">
 </div>
 <br>
 <h2>Tecnologias usadas</h2>
